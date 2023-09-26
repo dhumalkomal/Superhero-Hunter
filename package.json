@@ -1,0 +1,11 @@
+{
+  "name": "superhero-hunter",
+  "version": "1.0.0",
+  "description": "Superhero Hunter API using Marvel API, html, css and Javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Komal Dhumal",
+  "license": "ISC"
+}
